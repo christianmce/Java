@@ -1,7 +1,7 @@
 /* Method Overloading: When there are multiple functions with same name but different parameters then these functions are said to be overloaded. Functions can be overloaded by change in number of 
 arguments or/and change in type of arguments.*/
 
-lass MultiplyFun { 
+class MultiplyFun { 
   
     // Method with 2 parameter 
     static int Multiply(int a, int b) 
